@@ -14,7 +14,8 @@
   "homepage": "https://kairi.me/",
   "scripts": {
     "start": "astro dev",
-    "build": "astro build"
+    "build": "astro build",
+    "postversion": "git push && git push --tags"
   },
   "devDependencies": {
     "astro": "^1.0.0-beta.27"
