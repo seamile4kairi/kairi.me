@@ -1,0 +1,18 @@
+{
+  "name": "kairi.me",
+  "version": "0.0.0",
+  "private": true,
+  "license": "CC-BY-SA-4.0",
+  "author": "Kairi <seamile@kairi.me>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seamile4kairi/kairi.me.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seamile4kairi/kairi.me/issues"
+  },
+  "homepage": "https://kairi.me/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
